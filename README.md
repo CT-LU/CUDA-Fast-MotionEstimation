@@ -1,4 +1,4 @@
-# mvc_motion_estimation
+# CUDA-Fast-MotionEstimation for Multiview video coding
 
 I don't upload all files on github because the MVC software is too big. There are 2 files involving CUDA kernels that are to perform Motion Estimation accelerated by CUDA. In addition, LuCT_VCIP2011.pdf is description of this algorithm.
 
