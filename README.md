@@ -2,7 +2,7 @@
 
 I don't upload all files on github because the MVC software is too big. There are 2 files involving CUDA kernels that are to perform Motion Estimation accelerated by CUDA. In addition, LuCT_VCIP2011.pdf is description of this algorithm.
 
-因為MVC參考軟體太大，並沒有全部放上來，我放了最重要的部份，由CUDA加速的Motion Estimation，可以參考pdf文件詳述此演算法。
+因為MVC參考軟體太大，並沒有全部放上來，我上傳了核心的部份，由CUDA加速的Motion Estimation，可以參考pdf文件詳述此演算法。
 
 ------------------------------------------------
 License
